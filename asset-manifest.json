@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.60487f0a.css",
+    "main.js": "/React_Project/static/js/main.475e0849.js",
+    "static/media/Rectanglezz.png": "/React_Project/static/media/Rectanglezz.397a14aafd2af90a1afe.png",
+    "static/media/onlinestore.png": "/React_Project/static/media/onlinestore.1ab8cd5192a028766805.png",
+    "static/media/Rectangle 4 (1).png": "/React_Project/static/media/Rectangle 4 (1).ef7b8cb66b856e9777c3.png",
+    "static/media/Hero-Banner.png": "/React_Project/static/media/Hero-Banner.d744bb09797ad7664c80.png",
+    "static/media/Girls.png": "/React_Project/static/media/Girls.c901aee18833d520a507.png",
+    "static/media/bnr2.jpg": "/React_Project/static/media/bnr2.3272c6ffed8683310c2a.jpg",
+    "static/media/bnr3.jpg": "/React_Project/static/media/bnr3.f2f806500546af3dd04f.jpg",
+    "static/media/t3.png": "/React_Project/static/media/t3.500ee23c16cb52fb6e3e.png",
+    "static/media/Men.png": "/React_Project/static/media/Men.516c2ce8d2fd05542839.png",
+    "static/media/t2.png": "/React_Project/static/media/t2.72e1e30e0d30c12079c9.png",
+    "static/media/Rectangle 20.png": "/React_Project/static/media/Rectangle 20.7e2e5f955a69d3d24fed.png",
+    "static/media/Rectangle 19.png": "/React_Project/static/media/Rectangle 19.085aaad21cf5848c507b.png",
+    "static/media/Rectangle 21.png": "/React_Project/static/media/Rectangle 21.6af7a5068826907ce084.png",
+    "static/media/t4.png": "/React_Project/static/media/t4.dcdbea522bd9dee5cbe9.png",
+    "static/media/Rectangle 18.png": "/React_Project/static/media/Rectangle 18.98601d2bd9680b66f78d.png",
+    "static/media/gendy.otf": "/React_Project/static/media/gendy.ffe5a1764469c964fa7c.otf",
+    "static/media/pexels-brian-jr-asare-166601141-13221799-removebg-preview.png": "/React_Project/static/media/pexels-brian-jr-asare-166601141-13221799-removebg-preview.05e46c8ab90e9775fd83.png",
+    "static/media/t1.png": "/React_Project/static/media/t1.2e38a3bd8ed195be1e04.png",
+    "static/media/Rectangle 22.png": "/React_Project/static/media/Rectangle 22.867cafbe4c1c4ada6dbc.png",
+    "static/media/Rectangle 17.png": "/React_Project/static/media/Rectangle 17.bd97d2e66995bd1b0955.png",
+    "static/media/Product1.png": "/React_Project/static/media/Product1.84f9f281c1fe89091922.png",
+    "static/media/Vector 13.png": "/React_Project/static/media/Vector 13.98b4d1d5bb387ede1740.png",
+    "static/media/Projectbg.png": "/React_Project/static/media/Projectbg.97c988524b3b7caa3ffb.png",
+    "static/media/White.png": "/React_Project/static/media/White.6c6cd535c4b1a5d126d3.png",
+    "index.html": "/React_Project/index.html",
+    "main.60487f0a.css.map": "/React_Project/static/css/main.60487f0a.css.map",
+    "main.475e0849.js.map": "/React_Project/static/js/main.475e0849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60487f0a.css",
+    "static/js/main.475e0849.js"
+  ]
+}
