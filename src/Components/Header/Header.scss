@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    z-index: 9999;
+    position: relative;
+
+    .nav-items{
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        gap: 20px;
+    
+        .nav-links{
+            font-weight: 600;
+            font-size: 16px;
+            transition: .4s ease;
+            cursor: pointer;
+            
+            &:hover{
+                color: #00000070;
+            }
+        }
+    }
+}
+
+
+
+

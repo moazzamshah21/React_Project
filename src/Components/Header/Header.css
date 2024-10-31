@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  z-index: 9999;
+  position: relative;
+}
+.navbar .nav-items {
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+}
+.navbar .nav-items .nav-links {
+  font-weight: 600;
+  font-size: 16px;
+  transition: 0.4s ease;
+  cursor: pointer;
+}
+.navbar .nav-items .nav-links:hover {
+  color: rgba(0, 0, 0, 0.4392156863);
+}/*# sourceMappingURL=Header.css.map */
